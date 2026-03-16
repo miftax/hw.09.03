@@ -86,14 +86,14 @@ select {
     font-weight: 400;
     font-size: 16px;
     list-style-image: url(/homework/hw.09.03/assets/VectorRight.png);
-    padding:0 20px ;
+    padding:0px 20px;
     /* Стили для маркированного списка во второй секции */
 }
 
 .books-list {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 0 20px;
+    padding-left:0px 20px;
     /* Стили для нумерованного списка во второй секции */
 }
 
